@@ -1,6 +1,10 @@
 Manifest-Version: 1.0
 Build-Jdk-Spec: 11
+<<<<<<< HEAD
 Implementation-Title: Pubg bag
+=======
+Implementation-Title: Pokemon Game
+>>>>>>> valero
 Implementation-Version: 1.0.0-SNAPSHOT
 Created-By: Maven Integration for Eclipse
 
